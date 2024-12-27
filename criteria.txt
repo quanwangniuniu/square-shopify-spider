@@ -1,0 +1,36 @@
+Scoring Criteria for Website Quality:
+
+1. Response Time:
+   - Less than 1 second: +15 points
+   - Less than 2 seconds: +10 points
+   - Less than 3 seconds: +5 points
+
+2. JavaScript Files:
+   - More than 10 JavaScript files: +20 points
+
+3. Third-Party Services Integration:
+   - Each detected third-party service: +5 points
+     - Google Analytics
+     - Google Tag Manager
+     - Facebook Integration
+     - Cloudflare CDN
+     - AWS Services
+     - Stripe Payment
+     - PayPal Integration
+
+4. Mobile Responsiveness:
+   - Mobile-friendly (presence of viewport meta tag): +15 points
+
+5. SSL Certificate:
+   - SSL secured: +10 points
+
+6. Security Headers:
+   - Each detected security header: +5 points
+     - Strict-Transport-Security (HSTS)
+     - Content-Security-Policy (CSP)
+     - X-Frame-Options (X-Frame)
+     - X-Content-Type-Options (X-Content-Type)
+     - X-XSS-Protection (XSS Protection)
+
+Total Score:
+- A website is considered a quality site if the total score exceeds 50 points.
